@@ -1,7 +1,3 @@
-#sudo iw dev &
-#sudo wpa_supplicant -B -i wlp1s0 -c /etc/wpa_supplicant.conf &
-#sudo dhclient -v wlp1s0 &
-
 #!/bin/bash
 
 # Verifica se as ferramentas necessárias estão instaladas
